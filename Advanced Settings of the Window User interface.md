@@ -4,6 +4,9 @@
 
 # Advanced Windows 11 User Interface Settings:
  Taskbar Tweaks
+ 
  Virtual Desktops
+ 
  File Explorer Customizations
+ 
  Advanced Accessibility Features
