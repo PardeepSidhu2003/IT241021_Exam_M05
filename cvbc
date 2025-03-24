@@ -1,9 +1,0 @@
-: Repository Issue Suggestion
-Issue Title: Suggestion for Alternative Text Editing Tools in Windows
-Issue Description: While Notepad is a simple and effective text editing tool, users may require more advanced features such as syntax highlighting, autosave, and plugins. Consider exploring alternative text editors such as:
-1.	Notepad++: A free, open-source text editor with syntax highlighting, customizable UI, and plugin support.
-2.	Sublime Text: A sophisticated text editor for code, prose, and markup, with advanced features like multiple cursors and split editing.
-3.	Visual Studio Code: A highly extensible editor for web development, with debugging tools and integrated version control.
-4.	Atom: A hackable text editor for developers, with community plugins and a customizable interface.
-These editors could better serve users with advanced needs while still maintaining a simple, efficient interface for regular text editing.
-________________________________________
